@@ -9,3 +9,34 @@
 # OS
 .DS_Store
 Thumbs.db
+
+# Maven
+target/
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Temporary
+*.tmp
+*.swp
